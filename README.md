@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app demostrate new stuff brought and incooporated into Rails 7
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Stuffs like:
+* Importmap
+* Hotwire
+    - Turbo 
+    - Stimulus
+    - Strada
+* ActionText
+    - Rich text
+* Mailbox
+Rails 7 droped the default Webpacker, Yarn, Node.js. You can choose to work with them if you will depending your app need.
